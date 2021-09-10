@@ -1,4 +1,7 @@
-https://www.reddit.com/r/headphones/comments/8eysek/diy_bluetooth_athm50s/
+# Reddit Post
+
+Initial Reddit post that inspired me to modify my ATH-M50x:
+* https://www.reddit.com/r/headphones/comments/8eysek/diy_bluetooth_athm50s/
 
 
 [<img src="./resources/01_Reddit/01.jpg" width="800">](./resources/01_Reddit/01.jpg)
